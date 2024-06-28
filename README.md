@@ -22,8 +22,8 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-project.git
-    cd sentiment-analysis-project
+    [git clone https://github.com/yourusername/sentiment-analysis-project.git
+    cd sentiment-analysis-project](https://github.com/adityaa1205/Sentiment-Analysis.git)
     ```
 
 2. Install the required dependencies:
