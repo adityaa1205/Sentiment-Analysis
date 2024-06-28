@@ -26,16 +26,8 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
     cd sentiment-analysis-project
     ```
 
-2. Create and activate a virtual environment (optional but recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required dependencies:
+    
 
 ## Usage
 
@@ -80,10 +72,4 @@ Each model is trained and evaluated to find the best performing one for sentimen
 
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results are presented in the `results/` directory.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/
 
