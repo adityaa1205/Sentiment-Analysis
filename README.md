@@ -31,25 +31,7 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
 
 ## Usage
 
-1. **Preprocess the data:**
-    ```python
-    python preprocess.py
-    ```
 
-2. **Train the model:**
-    ```python
-    python train.py
-    ```
-
-3. **Evaluate the model:**
-    ```python
-    python evaluate.py
-    ```
-
-4. **Run the sentiment analysis script on new data:**
-    ```python
-    python predict.py --input "Your text here"
-    ```
 
 ## Dataset
 
@@ -68,8 +50,5 @@ The project explores different machine learning models including:
 
 Each model is trained and evaluated to find the best performing one for sentiment analysis.
 
-## Results
-
-The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results are presented in the `results/` directory.
 
 
