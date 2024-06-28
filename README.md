@@ -10,9 +10,6 @@ This repository contains a sentiment analysis project that analyzes the sentimen
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,6 +24,9 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
     ```
 
 2. Install the required dependencies:
+   -streamlit
+   -matplotlib
+   -
     
 
 ## Usage
