@@ -40,7 +40,7 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
 
 The dataset used in this project is a collection of text samples labeled with their corresponding sentiments (positive, negative, or neutral). You can download the dataset from [Dataset Source](#).
 
-- Ensure the dataset is placed in the `data/` directory or update the path in the code.
+- Ensure the dataset is placed in the `read/` & `emotion/` directory or update the path in the code.
 
 ## Model
 
@@ -52,6 +52,8 @@ The project explores different machine learning models including:
 - Neural Networks
 
 Each model is trained and evaluated to find the best performing one for sentiment analysis.
+
+**I hope it will help you :)**
 
 
 
