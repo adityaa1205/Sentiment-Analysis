@@ -24,13 +24,16 @@ Sentiment analysis is a natural language processing (NLP) technique used to dete
     ```
 
 2. Install the required dependencies:
-   -streamlit
-   -matplotlib
-   -
+   **streamlit**
+   **matplotlib**
+   **NLTK**
+   
     
 
 ## Usage
-
+- **Customer Feedback Analysis:** Determine the sentiment of customer reviews or feedback to understand customer satisfaction.
+- **Social Media Monitoring:** Analyze social media posts to gauge public opinion on various topics or events.
+- **Market Research:** Assess consumer sentiment towards products or brands to inform marketing strategies.
 
 
 ## Dataset
